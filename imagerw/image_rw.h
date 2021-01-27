@@ -1,0 +1,8 @@
+//
+// Created by 18088 on 2021/1/27.
+//
+
+#ifndef NORMAL_BARCODE_IMAGE_RW_H
+#define NORMAL_BARCODE_IMAGE_RW_H
+
+#endif //NORMAL_BARCODE_IMAGE_RW_H
